@@ -12,17 +12,17 @@
 
 ## Projects
 ### Project title
-[link](https://www.link.com)
+[link]((https://mattia777.github.io/mattia.github.io/))
 
 proj txt
 
-![link](https://www.link.com)
+![link]((https://mattia777.github.io/mattia.github.io/))
 
 ## Talks & Lectures
 - Talks & Lectures
-- [link](https://www.link.com)
+- [link]((https://mattia777.github.io/mattia.github.io/))
 
 ## Publications
 1. Publications
 
-- [link](https://www.link.com)
+- [link]((https://mattia777.github.io/mattia.github.io/))
