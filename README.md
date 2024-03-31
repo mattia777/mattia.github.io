@@ -7,8 +7,7 @@
 - B.S. in Computer and Biomedical Engineering | · Magna Graecia University (_December 2020_)
 
 ## Work Experience
-**Internship @ Relatech (_Dec 2021 - Feb 2022_)**
-· Milan, Lombardy, Italy (_Hybrid_)
+**Internship @ Relatech (_Dec 2021 - Feb 2022_)** · Milan, Lombardy, Italy (_Hybrid_)
 - Il progetto principale ha richiesto lo sviluppo di una Blockchain Privata per l’applicazione in contesto sanitario attraverso l'utilizzo di Hyperledger Fabric.
 
 ## Projects
