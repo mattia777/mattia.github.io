@@ -3,8 +3,8 @@
 #### Technical Skills: Java, Python, SQL, MATLAB 
 
 ## Education 		
-- M.S., Biomedical Engineering | Magna Graecia University (_March 2024_) 			        		
-- B.S., Computer and Biomedical Engineering | Magna Graecia University (_December 2020_)
+- M.S. in Biomedical Engineering | Magna Graecia University | (_March 2024_) 			        		
+- B.S. in Computer and Biomedical Engineering | Magna Graecia University | (_December 2020_)
 
 ## Work Experience
 **Work Experience @ Work (_date 2022 - Present_)**
